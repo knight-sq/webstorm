@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="448" />
+    <histories>
+      <item value="深度分析" />
+      <item value="handle Array" />
+      <item value="handle" />
+      <item value="处理" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="4" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1662529752667" />
+  </component>
+</application>
